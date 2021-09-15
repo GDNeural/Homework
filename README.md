@@ -1,2 +1,2 @@
-# homework-1
+# Homework
 [Homework] Object oriented programming
